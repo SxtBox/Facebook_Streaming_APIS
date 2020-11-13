@@ -7,6 +7,7 @@ Multiple Facebook Streaming APIS
 # Contains
     Smart TV API
     Kodi Builder
+    Kodi Player
     Web Players by Url
     Video Downloader
     Xtream Codes API
@@ -26,6 +27,11 @@ Multiple Facebook Streaming APIS
     --------------------------------------------------------------------------------------------------
     Video Downloader
     Video Downloader => https://paidcodes.albdroid.al/Facebook_APIS/Video_Downloader/ SD/HD
+    ---------------------------------------------------------------------------------------
+
+    ---------------------------------------------------------------------------------------
+    Example M3U Links => https://paidcodes.albdroid.al/Facebook_APIS/M3U_Player/Example_Links
+    Kodi Player => https://paidcodes.albdroid.al/Facebook_APIS/Kodi_Player/
     ---------------------------------------------------------------------------------------
 
     --------------------------------------------------------------------------------------------------
