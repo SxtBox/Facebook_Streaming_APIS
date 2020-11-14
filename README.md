@@ -32,6 +32,7 @@ Multiple Facebook Streaming APIS
     ---------------------------------------------------------------------------------------
     Example M3U Links => https://paidcodes.albdroid.al/Facebook_APIS/M3U_Player/Example_Links
     Kodi Player => https://paidcodes.albdroid.al/Facebook_APIS/Kodi_Player/
+    Example VLC => https://paidcodes.albdroid.al/Facebook_APIS/Kodi_Player/Example_Live_Streaming.m3u
     ---------------------------------------------------------------------------------------
 
     --------------------------------------------------------------------------------------------------
