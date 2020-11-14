@@ -3,7 +3,9 @@ Multiple Facebook Streaming APIS
 
 # Hosted APIS
     https://paidcodes.albdroid.al/Facebook_APIS/
-    
+
+# Get Parameters:
+    For All Datas => file.php?url= + Full Facebook Video or Live Stream URL
 # Contains
     Smart TV API
     Kodi Builder
