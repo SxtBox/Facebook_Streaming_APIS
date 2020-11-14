@@ -9,10 +9,12 @@ Multiple Facebook Streaming APIS
     Kodi Builder
     Kodi Player
     Web Players by Url
+    Live Stream Player by Url
     Video Downloader
     Xtream Codes API
     --------------------------------------------------------------------------------------------------
     Native Players => https://paidcodes.albdroid.al/Facebook_APIS/Native_Players/ SD/HD - Live Stream
+    Live Stream + MP4 Player => https://paidcodes.albdroid.al/Facebook_APIS/Live_Stream_Player/ SD/HD
     Web Player => https://paidcodes.albdroid.al/Facebook_APIS/Web_Player/ SD/HD
     M3U Player => https://paidcodes.albdroid.al/Facebook_APIS/M3U_Player/ SD/HD
     --------------------------------------------------------------------------------------------------
